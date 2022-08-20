@@ -1,10 +1,10 @@
-#NOT GENSHIN IMPACT!!! 
+# NOT GENSHIN IMPACT!!! 
 
-*A simple game, was a project at the university and was made with soul (and tears). The game is pretty easy to play.
+* A simple game, was a project at the university and was made with soul (and tears). The game is pretty easy to play.
 
 ![Map_1](images/map_1.png)
 
-*The first location is the world in which the main character lives. The essence of this location is to find 6 stars to activate the portal (borrowed the portal from VALVE from the Dota 2 project X)
+* The first location is the world in which the main character lives. The essence of this location is to find 6 stars to activate the portal (borrowed the portal from VALVE from the Dota 2 project X)
 
 ![Map_2](images/map_2.png)
 
